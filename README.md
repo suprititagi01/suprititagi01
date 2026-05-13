@@ -176,23 +176,10 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 
 <div align="center">
 
-## Featured Work
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Machine+learning+projects+with+production-ready+code;10%2B+modern+websites+built+with+React+%26+TypeScript;End-to-end+ML+pipelines+from+research+to+deployment;Python+automation+%26+data+analysis+solutions" alt="Featured Work" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vinodbavage31?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F85D7F"/>
-  </a>
 </p>
 
 </div>
-
----
-
-<div align="center">
 
 ## Let's Connect
 
