@@ -12,10 +12,10 @@
   <a href="http://linkedin.com/in/suprit-itagi-5725892b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/vinodbavage" target="_blank">
+  <a href="https://www.instagram.com/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:bavagevinod604@gmail.com">
+  <a href="mailto:itagisuprit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
