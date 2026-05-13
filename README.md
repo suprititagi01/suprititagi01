@@ -1,17 +1,57 @@
-class Developer:
-    def __init__(self):
-        self.name = "Vinod Bavage"
-        self.role = ["Data Scientist", "Python Developer", "Web Developer"]
-        self.location = "Hyderabad, Telangana, IN"
-        self.tech_stack = {
-            "data_science": ["Machine Learning", "Deep Learning", "EDA"],
-            "web_dev": ["React", "TypeScript", "Tailwind CSS"],
-            "backend": ["Python", "SQL", "MongoDB"]
-        }
-        self.projects_built = "10+ websites"
-        
-    def current_focus(self):
-        return ["Advanced ML", "Model Deployment", "Full-Stack Development"]
+<h1 align="center">Suprit Itagi</h1>
+<h3 align="center">Data Science & ML Enthusiast</h3>
 
-dev = Developer()
-print(f"Building: {dev.projects_built} and counting...")
+---
+
+## 🚀 About Me
+
+- 🎓 B.E CSE Student
+- 🤖 Interested in AI & Machine Learning
+- 📊 Learning Data Science
+- 🐍 Python Developer
+
+---
+
+## 🛠 Skills
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+
+---
+
+## 📌 Projects
+
+### 🔹 Liver Disease Classification
+- ML model for predicting liver disease
+- Used Python, Pandas, Scikit-learn
+
+### 🔹 Rice Leaf Disease Detection
+- Deep Learning project
+- Image classification using CNN
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: http://linkedin.com/in/suprit-itagi-5725892b6 
+- Email: itagisuprit@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,sklearn,git,github,vscode" />
+</p>
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suprititagi01&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprititagi01&layout=compact&theme=tokyonight)
