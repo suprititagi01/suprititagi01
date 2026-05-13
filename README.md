@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://vinod-portfolio.pages.dev/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=SUPRIT+ITAGI;Data+Scientist;Python+Developer;ML+Engnieering" alt="Suprit itagi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=SUPRIT+ITAGI;Data+Scientist;Python+Developer;ML+Engnieer" alt="Suprit itagi" />
 </a>
 
-### Data Science | Python Development | Web Development
+### Data Science | Python Development | ML Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vinodbavage31&style=flat-square&color=blueviolet)](https://github.com/vinodbavage31)
 
@@ -33,18 +33,16 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Vinod Bavage"
-        self.role = ["Data Scientist", "Python Developer", "Web Developer"]
-        self.location = "Hyderabad, Telangana, IN"
+        self.name = "Suprit itagi"
+        self.role = ["Data Scientist", "Python Developer", "ML Engineer"]
+        self.location = "Bengaluru, Kranataka, IN"
         self.tech_stack = {
             "data_science": ["Machine Learning", "Deep Learning", "EDA"],
-            "web_dev": ["React", "TypeScript", "Tailwind CSS"],
-            "backend": ["Python", "SQL", "MongoDB"]
         }
-        self.projects_built = "10+ websites"
+        self.projects_built = "4+ websites"
         
     def current_focus(self):
-        return ["Advanced ML", "Model Deployment", "Full-Stack Development"]
+        return ["Advanced ML", "Model Deployment", "data scientist"]
 
 dev = Developer()
 print(f"Building: {dev.projects_built} and counting...")
@@ -88,21 +86,21 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
   width="49%" 
   src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&cache_seconds=1800" 
   alt="GitHub Stats"
-/>  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinodbavage31&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
+/>  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suprititagi01&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodbavage31&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suprititagi01&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodbavage31&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinodbavage31&theme=radical" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suprititagi01&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprititagi01&theme=radical" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodbavage31&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprititagi01&theme=radical" alt="Profile Details"/>
 </p>
 
 <p align="center">
@@ -142,13 +140,6 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 
 </td>
 <td width="33%">
-
-### Web Development
-- React applications
-- TypeScript development
-- Responsive UI/UX
-- Modern CSS frameworks
-- Full-stack projects
 
 </td>
 </tr>
@@ -215,16 +206,13 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinodbavage/">
+  <a href="http://linkedin.com/in/suprit-itagi-5725892b6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:bavagevinod604@gmail.com">
+  <a href="mailto:itagisuprit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://vinod-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/vinodbavage">
+  <a href="https://www.instagram.com/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
