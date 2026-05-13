@@ -1,6 +1,8 @@
-<h1 align="center">Suprit Itagi</h1>
-<h3 align="center">Data Science & ML Enthusiast</h3>
+<h1 align="center" style="color:#4A90E2;">Data Scientist</h1>
 
+<h3 align="center">
+Data Science | Python Development | Web Development
+</h3>
 ---
 
 ## 🚀 About Me
