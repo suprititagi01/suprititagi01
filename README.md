@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Suprit Itagi</h1>
+<h1 align="center">Hi 👋, Suprit Itagi</h1>
 <h3 align="center">Data Science & ML Enthusiast</h3>
 
 ---
@@ -59,3 +59,15 @@ Here are some ideas to get you started:
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,sklearn,git,github,vscode" />
+</p>
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suprititagi01&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprititagi01&layout=compact&theme=tokyonight)
