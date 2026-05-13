@@ -141,11 +141,6 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 </td>
 <td width="33%">
 
-</td>
-</tr>
-<tr>
-<td width="33%">
-
 ### Deep Learning
 - Neural networks
 - CNN, RNN, Transformers
@@ -230,9 +225,3 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
