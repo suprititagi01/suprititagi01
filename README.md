@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://vinod-portfolio.pages.dev/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=VINOD+BAVAGE;Data+Scientist;Python+Developer;Web+Developer" alt="Vinod Bavage" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=SUPRIT+ITAGI;Data+Scientist;Python+Developer;Web+Developer" alt="Suprit itagi" />
 </a>
 
 ### Data Science | Python Development | Web Development
@@ -9,10 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=vinodbavage31&style=flat-square&color=blueviolet)](https://github.com/vinodbavage31)
 
 <p align="center">
-  <a href="https://vinod-portfolio.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vinodbavage/" target="_blank">
+  <a href="http://linkedin.com/in/suprit-itagi-5725892b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/vinodbavage" target="_blank">
