@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">   
 
 <a href="https://vinod-portfolio.pages.dev/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=SUPRIT+ITAGI;Data+Scientist;Python+Developer;ML+Engnieer" alt="Suprit itagi" />
