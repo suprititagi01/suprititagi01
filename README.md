@@ -200,7 +200,7 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinodbavage31&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=suprititagi01&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <br>
