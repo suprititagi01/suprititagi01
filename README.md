@@ -6,7 +6,7 @@
 
 ### Data Science | Python Development | ML Engineer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vinodbavage31&style=flat-square&color=blueviolet)](https://github.com/vinodbavage31)
+[![Profile Views](https://komarev.com/ghpvc/?username=suprititagi01&style=flat-square&color=blueviolet)](https://github.com/suprititagi01)
 
 <p align="center">
   <a href="http://linkedin.com/in/suprit-itagi-5725892b6" target="_blank">
