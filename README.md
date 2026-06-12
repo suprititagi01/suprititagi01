@@ -84,7 +84,7 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 <p align="center">
 <img 
   width="49%" 
-  src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&cache_seconds=1800" 
+  src="https://github-readme-stats.vercel.app/api?username=suprititagi01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&cache_seconds=1800" 
   alt="GitHub Stats"
 />  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suprititagi01&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
 </p>
